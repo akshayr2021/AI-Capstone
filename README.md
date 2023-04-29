@@ -1,4 +1,4 @@
 # AI-Capstone
 
-Dataset used for training:
+## Dataset
 https://www.kaggle.com/datasets/afridirahman/brain-stroke-ct-image-dataset
