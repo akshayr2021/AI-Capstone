@@ -1,8 +1,13 @@
 # AI-Capstone
 
+This repo consists of a .ipynb file which can accessed and run on google colab
+
 ## Dataset
 https://www.kaggle.com/datasets/afridirahman/brain-stroke-ct-image-dataset
 
-We have uploaded this dataset on our google drive
+## Steps to run the model
 
-This repo consists of a .ipynb file which can accessed and run on google colab
+1. Download the dataset and upload it on your google drive where the python file is located
+2. Load the data into appropriate path (In our case, path = '/content/drive/MyDrive/Brain_Data_Organised/*') 
+3. Execute all the sections in the python file
+
